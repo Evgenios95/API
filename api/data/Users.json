@@ -1,0 +1,1 @@
+[{"UserId":1,"UserName":"Lionel Messi","cart":{"products":[],"totalPrice":0}},{"UserId":2,"UserName":"Luis Suarez","cart":{"products":[1,4],"totalPrice":13398}},{"UserId":3,"UserName":"Ronaldinho","cart":{"products":[15,17],"totalPrice":5641}},{"UserId":4,"UserName":"Cristiano Ronaldo","cart":{"products":[3,17],"totalPrice":7384}}]

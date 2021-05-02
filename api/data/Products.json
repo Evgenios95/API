@@ -1,0 +1,72 @@
+[
+    {
+        "productId": 1,
+        "productName": "iPhone 12 pro",
+        "price": 9499,
+        "description": "lorem ipsum ...........",
+        "category": "phones"
+    },
+    {
+        "productId": 2,
+        "productName": "Samsung Galaxy S21",
+        "price": 6599,
+        "description": "lorem ipsum ...........",
+        "category": "phones"
+    },
+    {
+        "productId": 3,
+        "productName": "PlayStation 5 (PS5)",
+        "price": 4199,
+        "description": "lorem ipsum ...........",
+        "category": "consoles"
+    },
+    {
+        "productId": 4,
+        "productName": "Xbox Series X 1 TB",
+        "price": 3899,
+        "description": "lorem ipsum ...........",
+        "category": "consoles"
+    },
+    {
+        "productId": 5,
+        "productName": "PlayStation 4 Slim 500 GB",
+        "price": 2399,
+        "description": "lorem ipsum ...........",
+        "category": "consoles"
+    },
+    {
+        "productId": 6,
+        "productName": "SteelSeries Apex Pro",
+        "price": 1749,
+        "description": "lorem ipsum ...........",
+        "category": "peripherals"
+    },
+    {
+        "productId": 7,
+        "productName": "Razer Kraken X",
+        "price": 399,
+        "description": "lorem ipsum ...........",
+        "category": "peripherals"
+    },
+    {
+        "productId": 8,
+        "productName": "HyperX Pulsefire Core RGB",
+        "price": 222,
+        "description": "lorem ipsum ...........",
+        "category": "peripherals"
+    },
+    {
+        "productId": 9,
+        "productName": "HyperX QuadCast",
+        "price": 799,
+        "description": "lorem ipsum ...........",
+        "category": "peripherals"
+    },
+    {
+        "productId": 10,
+        "productName": "Samsung Galaxy S3",
+        "price": 3556,
+        "description": "lorem ipsum ...........",
+        "category": "phones"
+    }
+]
